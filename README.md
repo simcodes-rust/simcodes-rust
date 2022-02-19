@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @simcodes-rust
-- 👀 I’m interested in modern software development of an educational product
-- 🌱 I’m currently learning the Rust programming language in direct relation to my PostgreSQL database backend knowledge
-- 💞️ I’m looking to collaborate on the SIMCODES Academic Database Project
+- 👀 I’m interested in modern software development of a 21st century educational product with an emphasis on MODERN software development
+- 🌱 I’m currently learning the Rust programming language and it's modern eco-system for software development in direct relation to my PostgreSQL database backend knowledge
+- 💞️ I’m looking to collaborate on the SIMCODES Academic Database Project as an open-source project used to teach Rust and software development to help releave the shortage of software developers who use the INCREASINGLY popular Rust systems programming language. Popular for a reason!
 - 📫 How to reach me vestafpersonal@gmail.com (please be patient)
 
 <!---
