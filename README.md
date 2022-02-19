@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the Rust programming language and it's modern eco-system for software development in direct relation to my PostgreSQL database backend knowledge
 - 💞️ I’m looking to collaborate on the SIMCODES Academic Database Project as an open-source project used to teach Rust and software development to help releave the shortage of software developers who use the INCREASINGLY popular Rust systems programming language. Popular for a reason!
 - 📫 How to reach me vestafpersonal@gmail.com (please be patient)
+-   Seeking the help of webpage designer/graphic artist
 - Facebook: TBA
 
 <!---
