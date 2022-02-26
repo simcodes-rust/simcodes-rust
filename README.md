@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on the SIMCODES Academic Database Project as an open-source project used to teach Rust and software development to help releave the shortage of software developers who use the INCREASINGLY popular Rust systems programming language. Popular for a reason!
 - 📫 How to reach me vestafpersonal@gmail.com (please be patient)
 -   Seeking the help of webpage designer/graphic artist
-- Facebook: TBA
+- Facebook: https://www.facebook.com/groups/670177900980197/learning_content
 
 <!---
 simcodes-rust/simcodes-rust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
