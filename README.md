@@ -5,6 +5,7 @@
 - 📫 How to reach me vestafpersonal@gmail.com (please be patient)
 -   Seeking the help of webpage designer/graphic artist
 - Facebook: https://www.facebook.com/groups/670177900980197/learning_content
+- Currently the software repository (behond this screen) is open for those who display a sincere desire to contribute. Those who the author of this project has gotten to know personally. Later, after the project has matured, we will open it up to everyone.
 
 <!---
 simcodes-rust/simcodes-rust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
